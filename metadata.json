@@ -1,0 +1,45 @@
+{
+  "name": "BVDCAT #841",
+  "symbol": "BVD",
+  "description": "Evolve, Plug in, Switch on, Join the Hunt & Stake your Claim on the Future - Now. Bounty Hunters are a collection of 8000 unique NFT's on the solana blockchain",
+  "seller_fee_basis_points": 200,
+  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://shdw-drive.genesysgo.net/9wpiHvK8Hgg1uYYzae5CG7umNWzXj4KjoKxidXLEUmU1/840.png",
+  "attributes": [
+   {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Ghost"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scheming"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bowie Tee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Visor"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+
